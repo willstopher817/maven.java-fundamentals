@@ -34,6 +34,9 @@
 4. Upon completion, open and run the `TestSuite` class to ensure that all tests have 100% success.
     * `TestSuite` is located in `src.main.java.com.github.perscholas.java_fundamentals`
 
+<img src="./VIEWME.gif">    
+
+
 ## Predicate Utilities
 * A _predicate_ is a clause which states something about a subject. (_e.g., **is assigning**_ in _"Leon **is assigning** homework"_)
 * Ensure each of the test cases passes successfully in the class [TestPredicateUtilities](src/main/java/com/github/curriculeon/TestPredicateUtilities.java) by completing each of the method stubs in the class [PredicateUtilities](src/main/java/com/github/curriculeon/PredicateUtilities.java).
