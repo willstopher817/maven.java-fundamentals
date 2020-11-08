@@ -1,4 +1,4 @@
-package com.github.perscholas.java_fundamentals;
+package com.github.curriculeon;
 
 /**
  * Created by Leon Hunter on 6/14/17.

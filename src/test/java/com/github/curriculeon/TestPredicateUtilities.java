@@ -1,4 +1,4 @@
-package com.github.perscholas.java_fundamentals;
+package com.github.curriculeon;
 
 import org.junit.Test;
 

@@ -1,6 +1,6 @@
-package com.github.perscholas.java_fundamentals.mathutilities;
+package com.github.curriculeon.mathutilities;
 
-import com.github.perscholas.java_fundamentals.MathUtilities;
+import com.github.curriculeon.MathUtilities;
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;

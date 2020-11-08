@@ -36,7 +36,7 @@
 
 ## Predicate Utilities
 * A _predicate_ is a clause which states something about a subject. (_e.g., **is assigning**_ in _"Leon **is assigning** homework"_)
-* Ensure each of the test cases passes successfully in the class [TestPredicateUtilities](./src/main/java/com/github/perscholas/java_fundamentals/TestPredicateUtilities.java) by completing each of the method stubs in the class [PredicateUtilities](./src/main/java/com/github/perscholas/java_fundamentals/PredicateUtilities.java).
+* Ensure each of the test cases passes successfully in the class [TestPredicateUtilities](src/main/java/com/github/curriculeon/TestPredicateUtilities.java) by completing each of the method stubs in the class [PredicateUtilities](src/main/java/com/github/curriculeon/PredicateUtilities.java).
 * Method Stubs to be completed
 	* `boolean isGreaterThan(int x, int y)`
 	* `boolean isLessThan(int x, int y)`
@@ -45,7 +45,7 @@
 
 
 ## Math Utilities
-* Ensure each of the test cases passes successfully in the class [TestMathUtilities](../src/main/java/com/github/perscholas/java_fundamentals/TestMathUtilities.java) by completing each of the method stubs in the class [MathUtilities](src/main/java/com/github/perscholas/java_fundamentals/MathUtilities.java).
+* Ensure each of the test cases passes successfully in the class [TestMathUtilities](../src/main/java/com/github/perscholas/java_fundamentals/TestMathUtilities.java) by completing each of the method stubs in the class [MathUtilities](src/main/java/com/github/curriculeon/MathUtilities.java).
 * Method Stubs to be completed	
 	* `Integer add(int, int)`
 	* `Long add(long, long)`
@@ -76,7 +76,7 @@
 
 
 ## String Utilities
-* Ensure each of the test cases passes successfully in the class [TestStringUtilities](../src/main/java/com/github/perscholas/java_fundamentals/TestStringUtilities.java) by completing each of the method stubs in the class [StringUtilities](src/main/java/com/github/perscholas/java_fundamentals/StringUtilities.java).
+* Ensure each of the test cases passes successfully in the class [TestStringUtilities](../src/main/java/com/github/perscholas/java_fundamentals/TestStringUtilities.java) by completing each of the method stubs in the class [StringUtilities](src/main/java/com/github/curriculeon/StringUtilities.java).
 * Method Stubs to be completed
 	* `String concatenation(String, String)`
 	* `String concatenation(int, String)`
